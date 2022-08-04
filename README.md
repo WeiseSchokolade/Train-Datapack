@@ -8,4 +8,6 @@ I uploaded this repository so you can learn something or give tips.
 To see how the movement system works, go to https://scratch.mit.edu/projects/719221106/ and follow the instructions.
 
 
-This project uses @CloudWolfYT's root function https://www.youtube.com/watch?v=Ky3OpQg6OsA 
+This project uses @CloudWolfYT's
+- root function https://www.youtube.com/watch?v=Ky3OpQg6OsA
+- smooth rotation command https://www.youtube.com/watch?v=xamAY7fpgeQ
