@@ -11,8 +11,6 @@
 #execute if score in Math matches 214748.. run tellraw @a [{"text":"MATH Error:","color":"red"},{"text":" Fast Sqrt() Overflow. Input too large!","color":"white"}]
 execute if score in Math matches ..-1 run tellraw @a [{"text":"MATH Error:","color":"red"},{"text":" Fast Sqrt() Imaginary Number (input negative)","color":"white"}]
 
-tellraw TheCrafter222 {"score":{"name":"in","objective":"Math"}}
-
 scoreboard players operation #temp1 Math = in Math
 #scoreboard players operation in Math *= #10000 Math
 
