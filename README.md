@@ -8,6 +8,4 @@ I uploaded this repository so you can learn something or give tips.
 To see how the movement system works, go to https://scratch.mit.edu/projects/719221106/ and follow the instructions.
 
 
-This project uses @CloudWolfYT's 
-- Root function https://www.youtube.com/watch?v=Ky3OpQg6OsA 
-- Sin function https://www.youtube.com/watch?v=XxLgEC6t1sw
+This project uses @CloudWolfYT's root function https://www.youtube.com/watch?v=Ky3OpQg6OsA 
