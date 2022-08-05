@@ -7,6 +7,7 @@ scoreboard players set #-1 Math -1
 scoreboard players set #2 Math 2
 
 scoreboard players set speed train_data 5
+scoreboard players set #old_speed train_data 5
 
 scoreboard players set door_open train_data 0
 scoreboard players set #door_ani train_data 13001
